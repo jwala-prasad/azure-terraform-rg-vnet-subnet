@@ -4,12 +4,6 @@ rgs = {
     name     = "dev-rg"
     location = "centralindia"
   }
-  rg02 = {
-
-    name     = "prod-rg"
-    location = "centralindia"
-  }
-
 }
 
 vnts = {
